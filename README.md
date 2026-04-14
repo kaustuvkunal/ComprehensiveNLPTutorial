@@ -1,6 +1,6 @@
 # Comprehensive NLP Tutorial
  
-My  Series of turials on NLP.
+My  Series of tutorial on NLP.
   Also available on Kaggle
 - https://www.kaggle.com/kksienc/comprehensive-nlp-tutorial-1-ml-perspective
 - https://www.kaggle.com/kksienc/comprehensive-nlp-tutorial-2-dl-perspective
